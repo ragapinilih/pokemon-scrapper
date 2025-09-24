@@ -1,1 +1,42 @@
 pokemon-app
+__pycache__/
+.env
+# Python
+*.pyc
+*.pyo
+*.pyd
+*.pyd
+*.swp
+*.swo
+*.log
+*.sqlite3
+
+# Virtual envs
+.venv/
+venv/
+env/
+
+# Build artifacts
+build/
+dist/
+.eggs/
+*.egg-info/
+
+# Caches
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.cache/
+
+# Coverage
+.coverage
+.coverage.*
+htmlcov/
+
+# Editors/IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
