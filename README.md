@@ -1,4 +1,4 @@
-#Pokemon API
+# Pokemon API
 
 A simple FastAPI service with a scraper and Postgres storage. Provides endpoints to list/search Pokemon persisted from PokeAPI.
 
